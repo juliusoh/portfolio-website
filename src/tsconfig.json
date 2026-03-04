@@ -9,6 +9,7 @@
         "strictPropertyInitialization": false,
         "allowSyntheticDefaultImports": true,
         "jsx": "react",
+        "skipLibCheck": true,
     },
     
     "include": ["Application/*", "./*"],
